@@ -1,0 +1,11 @@
+table{
+    width: 100%;
+}
+i.edit{
+    color: rgba(8, 8, 207, 0.904);
+    font-size: 12pt;
+}
+i.delete{
+    color: #e35e6b;
+    font-size: 12pt;
+}

@@ -1,0 +1,9 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: flex-end;
+    font: 20pt "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: rgb(7, 39, 145);
+}
+

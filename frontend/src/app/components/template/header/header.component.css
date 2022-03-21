@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+.header{
+    display: flex;
+    align-items: center;
+}
+.header a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: rgba(0, 52, 100, 0.904);
+    font-family: 'Architects Daughter', cursive;
+    font-size: 20pt;
+}
+.header .logo{
+    max-height: 60px;
+}
+.header .title-group{
+    float: left;
+}

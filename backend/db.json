@@ -1,0 +1,113 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "nome": "Gel Girassol (M)",
+      "qtdCaixa": 2,
+      "unidade": "10",
+      "valor": 4000,
+      "Total": 8000
+    },
+    {
+      "id": 2,
+      "nome": "Gilettes",
+      "qtdCaixa": 4,
+      "unidade": 10,
+      "valor": 2000,
+      "Total": 4000
+    },
+    {
+      "id": 3,
+      "nome": "Depiladores",
+      "qtdCaixa": 4,
+      "unidade": 10,
+      "valor": 1500,
+      "Total": 3000
+    },
+    {
+      "nome": "Lampada",
+      "qtdCaixa": 2,
+      "unidade": 15,
+      "valor": 3000,
+      "Total": 6000,
+      "id": 4
+    },
+    {
+      "nome": "Gel Girasol",
+      "qtdCaixa": "2",
+      "unidade": "15",
+      "valor": "2500",
+      "Total": 5000,
+      "id": 5
+    }
+  ],
+  "funcionarios": [
+    {
+      "id": 1,
+      "nome": "Paulo André",
+      "Profissao": "Barbeiro",
+      "nascimento": "12/05/1996",
+      "bilhete": "0984549MN097",
+      "endereco": "Luanda sul, nº42"
+    },
+    {
+      "id": 2,
+      "nome": "Martins Goçalves",
+      "Profissao": "Segurança",
+      "nascimento": "12/05/1998",
+      "bilhete": "0983549MN097",
+      "endereco": "Luanda sul, nº19"
+    },
+    {
+      "id": 3,
+      "nome": "Ana Miranda",
+      "Profissao": "Atendente",
+      "nascimento": "12/05/1997",
+      "bilhete": "0984549MN097",
+      "endereco": "Luanda sul, nº02"
+    }
+  ],
+  "servico": [
+    {
+      "id": 1,
+      "descricao": "Fez a barba",
+      "Pagamento": 200
+    },
+    {
+      "id": 2,
+      "descricao": "Corte Françes",
+      "Pagamento": 800
+    },
+    {
+      "id": 3,
+      "descricao": "Fez as unhas",
+      "Pagamento": 250
+    }
+  ],
+  "fsalario": [
+    {
+      "id": 1,
+      "nome": "Ana Miranda",
+      "Profissao": "Atendente",
+      "bilhete": "0984549MN097",
+      "salbruto": 30000,
+      "falta": 4,
+      "motivo": "Doença",
+      "deconto": 1500,
+      "bonus": 500,
+      "salLiquido": 29000
+    },
+    {
+      "id": 2,
+      "nome": "Paulo André",
+      "Profissao": "Barbeiro",
+      "bilhete": "0983549MN097",
+      "salbruto": 35000,
+      "falta": 2,
+      "motivo": "Acidente e reforma em casa",
+      "deconto": 1000,
+      "bonus": 0,
+      "salLiquido": 34000
+    }
+  ]
+}
